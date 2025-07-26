@@ -8,7 +8,7 @@ This repository showcases a collection of practical AI prompt projects across di
 
 | Domain                     | Prompt Project Example                                                                   |
 |----------------------------|------------------------------------------------------------------------------------------|
-| [SEO] (./SEO)              | Prompt to generate SEO-optimized blogs with keyword density                              |
+| [SEO] ([./SEO](https://github.com/Prerna19-max/prompt-engineering-portfolio/tree/main/seo))              | Prompt to generate SEO-optimized blogs with keyword density                              |
 | E-commerce                 | Prompt to generate product descriptions with feature-benefit structure                   |
 | Education                  | Prompt to explain complex concepts in simple language (grade-wise)                       |
 | Productivity               | Prompt to turn meeting notes into action items and summaries                             |
