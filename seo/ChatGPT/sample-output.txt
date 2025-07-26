@@ -1,1 +1,25 @@
+Prompt Project #1 – Blog Intro for SEO
+🗂 Category: SEO & Marketing
+🎯 Goal: Write an SEO blog intro using the keyword “best AI tools for small businesses” in under 100 words.
+🧪 Prompt (V1):
+
+“Write an engaging blog introduction for the keyword ‘best AI tools for small businesses.’ Keep it under 100 words.”
+
+📈 Evaluation:
+
+Word count: 86
+
+Keyword used once (naturally)
+
+Tone: Friendly and benefit-driven
+
+Ending CTA: “Let’s dive in” — good transition
+
+🔁 Improvements (V2 - optional):
+
+“Include the keyword twice, near the beginning and end, to boost SEO while maintaining natural flow.”
+
+✅ Final Output Snippet:
+“Running a small business means wearing many hats — marketing, sales, customer service, and more. But what if smart AI tools could handle the heavy lifting for you? From automating tasks to gaining data-driven insights, the best AI tools for small businesses are transforming the way entrepreneurs work...”
+
 
