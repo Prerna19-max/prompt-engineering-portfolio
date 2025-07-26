@@ -19,7 +19,7 @@ This repository showcases a collection of practical AI prompt projects across di
 
 ## 📌 Coming Soon
 
-- Prompt templates        
+- [Prompt templates] (https://github.com/Prerna19-max/prompt-engineering-portfolio/blob/fab31de5ee092ed6e7cf2c80244b266a208ae106/seo/prompt.txt#L1)        
 - Outputs/examples
 - Tools and models used
 
