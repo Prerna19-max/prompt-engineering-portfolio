@@ -40,6 +40,5 @@ Word count: 96
 Keyword used twice (as asked) (naturally)
 
 Tone: Conversational and benefit-driven
-
-Ending CTA: “Let’s dive in” — good transition
+---
 
