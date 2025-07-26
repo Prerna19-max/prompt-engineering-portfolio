@@ -1,1 +1,3 @@
-Write an engaging blog introduction for the keyword ‘best AI tools for small businesses.’ Keep it under 100 words.
+Prompt V1: Write an engaging blog introduction for the keyword ‘best AI tools for small businesses.’ Keep it under 100 words.
+
+Prompt V2: Let's refine the above output a bit. Write a 100-word blog introduction that uses the keyword ‘best AI tools for small businesses’ twice — once in the first sentence and once near the end. Keep it under 100 words. Keep the tone helpful and persuasive. Don't talk generic. Talk about any stats that validate your context.
